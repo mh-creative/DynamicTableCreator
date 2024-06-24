@@ -10,6 +10,7 @@ Dynamic Table Creator is a WordPress plugin that allows users to create dynamic 
 - **Add Rows and Columns**: Easily add new rows and columns to your tables.
 - **Select and Delete Rows and Columns**: Quickly select and delete rows and columns as needed.
 - **CSV Import and Export**: Import table data from CSV files and export your tables to CSV format.
+- **Upload/Add Media**: Upload Media to the WordPress Media library and add to any table cell. (Media only outputs to the gnereated table on the website and not the exported .csv file)
 - **Shortcode Integration**: Each table generates a shortcode that can be embedded into any page or post.
 - **Tailwind CSS and Flowbite Integration**: Utilizes Tailwind CSS for styling and Flowbite for UI components.
 
