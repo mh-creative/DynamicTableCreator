@@ -9,3 +9,7 @@ package.json
 
 # Ignore tailwind.config.js file
 tailwind.config.js
+
+# Ignore .DS_Store file
+.DS_Store
+dynamic-table-generator/.DS_Store
