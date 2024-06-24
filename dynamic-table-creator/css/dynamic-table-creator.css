@@ -1,0 +1,52 @@
+#dynamic-table td {
+    padding: 10px;
+}
+
+.dynamic-table {
+    max-width: 100% ! IMPORTANT;
+}
+
+td.contenteditable {
+    position: relative;
+}
+
+/* File Upload Icon Styles */
+
+.custom-svg {
+    position: absolute;
+    right: 10px;;
+    top: 10px;
+}
+
+.custom-svg-hover {
+    color: rgba(59, 130, 246, var(--tw-bg-opacity));
+    transition: color 0.3s;
+}
+
+.custom-svg-hover:hover {
+    color: rgba(29, 78, 216, var(--tw-bg-opacity));
+}
+
+/*Scrollbar*/
+
+.scrollbar-container {
+    position: relative;
+    margin: 0 auto;
+    overflow-x: auto;
+}
+
+.scrollbar-container::-webkit-scrollbar {
+    height: 8px;
+}
+
+.scrollbar-container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+.scrollbar-container::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+.scrollbar-container::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
