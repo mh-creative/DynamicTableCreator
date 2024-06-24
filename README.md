@@ -50,3 +50,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Tailwind CSS
 Flowbite
 WordPress
+
+## Authors 
+Michael Hayes
